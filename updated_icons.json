@@ -2,14 +2,11 @@
   "name": "Custom GCP Theme",
   "elements": [
     {
-        "tag": "Google Cloud Platform - Cloud Storage",
-        "icon": {
-          "url": "https://icons.terrastruct.com/dev%2Fpostgresql.svg",
-          "width": 80,
-          "height": 80
-        },
-        "shape": "Icon"
-      }
-    
+      "tag": "Google Cloud Platform - Cloud Storage",
+      "icon": "https://icons.terrastruct.com/dev%2Fpostgresql.svg",
+      "width": 80,
+      "height": 80,
+      "shape": "Icon"
+    }
   ]
 }
