@@ -7,6 +7,9 @@
       "width": 250,
       "height": 250,
       "shape": "Icon"
+    },{
+    "tag" : "Google Cloud Platform - Cloud PubSub",
+    "icon" : "Cloud_PubSub.png"
     }
   ]
 }
