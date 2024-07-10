@@ -1,5 +1,6 @@
 {
-  "name": "Custom GCP Theme",
+  "name" : "Google Cloud Platform",
+  "description" : "This theme includes element styles with icons for each of the GCP services, based upon the official set of icons to build architectural diagrams of Google Cloud Platform (https://cloud.google.com/icons).",
   "elements": [
     {
       "tag": "Google Cloud Platform - Cloud Storage",
